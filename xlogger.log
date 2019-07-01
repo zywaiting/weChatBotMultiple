@@ -1,0 +1,45 @@
+2019-07-02 00:32:00.258 | W | Thread-16 | chatapi-wechat | 停止监听信息：1101
+2019-07-02 00:32:00.258 | E | Thread-16 | chatapi-wechat | 微信用户：加载中
+2019-07-02 00:32:00.259 | E | Thread-16 | chatapi-wechat | Cookie信息：
+	过期时间：2029-06-29 00:30:55，键：webwx_auth_ticket，值：CIsBEOH28fADGoABRimYadWE8xKschIKOOx6jKw27k0+jYHuxEjkr+EEwrE2OhZcddP2vgljzSZyQ4YF8uhJ0ItWbiCEwTfEUdbF+fqfO2mOQlqHMs6pTiQbHh0W04lQgxTQrDK4foTNi0uDOnmwQ0hFT/t3H1miP/QM2ZIWqkHkkT/IXSLPXuqAAZc=
+	过期时间：2029-06-29 00:30:55，键：webwxuvid，值：e35a77e31b534c7b2a80ca0abaa537f33ac1f8fc9885530c2fc74aa37ef53004d11ffed5b1a911655f4a22a1f82af77c
+	过期时间：2019-07-02 12:30:55，键：mm_lang，值：zh_CN
+	过期时间：2019-07-05 00:31:17，键：wxuin，值：2830777780
+	过期时间：2019-07-02 12:31:17，键：wxpluginkey，值：1561968080
+	过期时间：2019-07-02 12:31:17，键：wxloadtime，值：1561998656_expired
+2019-07-02 00:32:00.260 | E | Thread-16 | chatapi-wechat | 登录信息：
+	host：wx.qq.com
+	uin：2830777780
+	sid：7YcMU2ZNeKDEOeXN
+	dataTicket：null
+	uuid：gd0HnNO1kw==
+	skey：@crypt_cea445ac_13f24a99edeaf59a1011b780337587c1
+	passticket：Q16KZrLPLVwIFI%2FQuxH1ph1WsgSwsPD7KsQAQK8fm6CV1MvqNwUTmZaz%2F%2FWafDUG
+	synckey：1_673992573|2_673998431|3_673997821|11_673998126|201_1561998671|203_1561995951|1000_1561968080|1001_1561968084
+	syncCheckKey：1_673992573|2_673998431|3_673997821|11_673998126|201_1561998671|203_1561995951|1000_1561968080|1001_1561968084
+2019-07-02 00:36:02.736 | E | Thread-13 | chatapi-wechat | 微信用户：加载中
+2019-07-02 00:36:02.738 | E | Thread-13 | chatapi-wechat | Cookie信息：
+	过期时间：2029-06-29 00:34:21，键：webwx_auth_ticket，值：CIsBEPL5sb8NGoABi0pPPYyRuO8ZZ/SAk6oiHKw27k0+jYHuxEjkr+EEwrE2OhZcddP2vgljzSZyQ4YF8uhJ0ItWbiCEwTfEUdbF+ZvNE8Kou7ho+MY+lGxpg1WAJV5pU6Sc6ZqnHqw9FOs6OppDjF5ic2D4H1UiLSB9p5IWqkHkkT/IXSLPXuqAAZc=
+	过期时间：2029-06-29 00:34:21，键：webwxuvid，值：e35a77e31b534c7b2a80ca0abaa537f33ac1f8fc9885530c2fc74aa37ef530046538d1847cddfb64d16e6b827b0c027e
+	过期时间：2019-07-02 12:34:21，键：mm_lang，值：zh_CN
+	过期时间：2019-07-02 12:34:36，键：wxloadtime，值：1561998862_expired
+	过期时间：2019-07-05 00:35:47，键：wxuin，值：2830777780
+	过期时间：2019-07-02 12:35:47，键：wxpluginkey，值：1561968080
+2019-07-02 00:36:02.738 | E | Thread-13 | chatapi-wechat | 登录信息：
+	host：wx.qq.com
+	uin：2830777780
+	sid：TGgdsq1E7i+/V7c/
+	dataTicket：null
+	uuid：gfZ7A9bGsw==
+	skey：@crypt_cea445ac_7548ce244c6ddbbeeee9f6539064a9c1
+	passticket：GkpF8E7y5RY2cEL9bZR8c6xz6eP1Q4yOf3S6RYZ%2FIVcCxiMOCw29s0SHWz2k6BSo
+	synckey：1_673992573|2_673998441|3_673997821|11_673998362|201_1561998933|203_1561998144|1000_1561968080|1001_1561968084
+	syncCheckKey：1_673992573|2_673998441|3_673997821|11_673998362|201_1561998933|203_1561998144|1000_1561968080|1001_1561968084
+2019-07-02 00:51:53.114 | W | Thread-14 | chatapi-wechat | 登录超时
+2019-07-02 00:51:53.115 | E | Thread-14 | chatapi-wechat | 登录出现错误：登陆超时
+2019-07-02 01:01:16.224 | W | Thread-14 | chatapi-wechat | 登录异常
+URI scheme is not "file"
+java.io.File.<init>(File.java:421)
+xin.zhuyao.wechatbotmultiple.entity.wechat.WeChatClient$WeChatThread.login(WeChatClient.java:782)
+xin.zhuyao.wechatbotmultiple.entity.wechat.WeChatClient$WeChatThread.run(WeChatClient.java:735)
+2019-07-02 01:01:16.224 | E | Thread-14 | chatapi-wechat | 登录出现错误：登陆异常

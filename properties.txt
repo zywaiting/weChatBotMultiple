@@ -1,0 +1,10 @@
+#秘钥,从公众号文章获取
+key=ZSDERGAS
+每有几条信息发送(真对单独群，建议不要修改，小于20默认20，放置发的太多会投诉,如果有新人进群，会自动发送你链接的第一条)
+num=20
+#需要发信息的群包含字以英文逗号分隔如(,)-----(如下就会向  互粉互阅,互XX,自媒体互阅,自媒体XX,等等只要群名字包含"互"或"自媒体"的都会发)
+group=互,自媒,你好
+#描述信息
+description=\r\n微信自动发送机器人\r\n百度网盘地址:https://pan.baidu.com/s/1fMtVH8Cd5AMJFmDSQNfknA,\r\n提取码:bs5v
+#连接，每个连接以英文逗号分隔如(,)
+url=https://mp.weixin.qq.com/s/PTyiLV4jO0AbQuD9vk-vzA,https://mp.weixin.qq.com/s/Bmew_HQ9NuqzqNIbgW2hYw,https://mp.weixin.qq.com/s/13vjDRC-H87YL5LnlyaYpg
